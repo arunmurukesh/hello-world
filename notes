@@ -1,0 +1,6 @@
+Repository . Should be Main Master
+Fork . Cloning a repository
+Branch . Creating a new branch from Cloned repository
+Push . Making code changes and adding it to the cloned repository
+Pull request . Moving code changes from Cloned Repo into Master Repo
+Rebase. Getting the latest from the remote branch.
